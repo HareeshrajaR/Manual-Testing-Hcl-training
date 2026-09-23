@@ -51,3 +51,15 @@ https://logeshna5-1789709312654.atlassian.net/jira/software/projects/T6J/boards/
 📊 **Exercise Sheet:**  
 
 https://1drv.ms/x/c/83ab004ed615cee5/IQARyfXFyb92QZz0BNn95hajAeQJG3IxOodwI2L9DwdlKAE?e=GIVlUk
+
+### 23.09.2026 – Python Exercises
+
+**Work Completed:**
+- Practiced basic Python programming.
+- Completed 3 Python exercises.
+- Practiced input handling, loops, conditions, strings, and number conversion.
+
+📁 **Python Exercises:**  
+
+https://github.com/HareeshrajaR/Manual-Testing-Hcl-training/tree/main/23.09.2026_Python%20Task
+
