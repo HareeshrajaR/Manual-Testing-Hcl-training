@@ -39,6 +39,8 @@ https://docs.google.com/spreadsheets/d/1gLRfIVyQiPMs8mybkwhdt3p6Xc_QnKI5h0U0RvBY
 
 https://logeshna5-1789709312654.atlassian.net/jira/software/projects/T6J/boards/2/backlog?atlOrigin=eyJpIjoiOWFmZDllODk4OTUxNDFkMTg2MDkxYTY1ZGFmMGQ1YzUiLCJwIjoiaiJ9
 
+---
+
 
 ### 22.09.2026 – Test Cases
 
@@ -52,6 +54,8 @@ https://logeshna5-1789709312654.atlassian.net/jira/software/projects/T6J/boards/
 
 https://1drv.ms/x/c/83ab004ed615cee5/IQARyfXFyb92QZz0BNn95hajAeQJG3IxOodwI2L9DwdlKAE?e=GIVlUk
 
+---
+
 ### 23.09.2026 – Python Exercises
 
 **Work Completed:**
@@ -63,3 +67,21 @@ https://1drv.ms/x/c/83ab004ed615cee5/IQARyfXFyb92QZz0BNn95hajAeQJG3IxOodwI2L9Dwd
 
 https://github.com/HareeshrajaR/Manual-Testing-Hcl-training/tree/main/23.09.2026_Python%20Task
 
+---
+
+### 24.09.2026 – Test Metrics and Analytics
+
+**Work Completed:**
+- Created test cases for the QA Practice E-Commerce Website.
+- Executed 32 test cases covering Search, Category, Sorting, Pagination, Product, Cart, Checkout, Address, Payment, and Order modules.
+- Recorded 21 Passed and 11 Failed test cases.
+- Identified and documented 11 defects based on test execution results.
+- Classified defects based on Critical, High, Medium, and Low severity.
+- Prepared Test Metrics & Analytics Dashboard with execution, pass/fail, and defect severity metrics.
+- Calculated Execution Rate, Pass Rate, and Fail Rate.
+
+📊 **Exercise Sheet:**  
+
+https://1drv.ms/x/c/83ab004ed615cee5/IQBrLKwhB-FfQrS5zPgFOBToAahkwXjcos1FKf5V2IGnXJI?e=YgJoXM
+
+---
