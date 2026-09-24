@@ -84,4 +84,7 @@ https://github.com/HareeshrajaR/Manual-Testing-Hcl-training/tree/main/23.09.2026
 
 https://1drv.ms/x/c/83ab004ed615cee5/IQBrLKwhB-FfQrS5zPgFOBToAahkwXjcos1FKf5V2IGnXJI?e=YgJoXM
 
+**Exercise Hand Notes:** 
+<img width="926" height="1462" alt="WhatsApp Image 2026-09-24 at 1 58 20 PM" src="https://github.com/user-attachments/assets/91c9bee6-0646-487a-81bd-9b675a51b072" />
+
 ---
