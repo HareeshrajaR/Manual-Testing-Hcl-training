@@ -87,4 +87,24 @@ https://1drv.ms/x/c/83ab004ed615cee5/IQBrLKwhB-FfQrS5zPgFOBToAahkwXjcos1FKf5V2IG
 **Exercise Hand Notes:** 
 <img width="926" height="1462" alt="WhatsApp Image 2026-09-24 at 1 58 20 PM" src="https://github.com/user-attachments/assets/91c9bee6-0646-487a-81bd-9b675a51b072" />
 
+
+---
+
+
+### 25.09.2026 – Python Exercises Task
+
+**Work Completed:**
+
+- Practiced Python programming through problem-solving.
+- Completed 10 DSA-based Python problems.
+- Practiced Sliding Window, HashSet, Maximum Subarray, Maximum Product Subarray, Group Anagrams, and Merge Intervals.
+- Improved understanding of arrays, strings, sets, dictionaries, sorting, and interval processing.
+- Practiced identifying the appropriate DSA approach from problem statements
+
+
+📁 **Python Exercises:**  
+
+https://github.com/HareeshrajaR/Manual-Testing-Hcl-training/tree/main/25.09.2026%20Python%20Exercises
+
+
 ---
