@@ -1,0 +1,21 @@
+arr=eval(input())
+n=len(arr)
+left=0
+right=n-1
+leftmax=0
+rightmax=0
+result=0
+while(left<right):
+    if(arr[left]<arr[right]):
+        if(arr[left]>leftmax):
+            leftmax=arr[left]
+        else:
+            result+=leftmax-arr[left]
+        left+=1
+    else:
+        if(arr[right]>=rightmax):
+            rightmax=arr[right]
+        else:
+            result+=rightmax-arr[right]
+        right-=1
+print(result)
