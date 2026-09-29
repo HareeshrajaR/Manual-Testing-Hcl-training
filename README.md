@@ -108,3 +108,46 @@ https://github.com/HareeshrajaR/Manual-Testing-Hcl-training/tree/main/25.09.2026
 
 
 ---
+
+
+### 29.09.2026 – Python Exercises
+
+**Work Completed:**
+- Practiced  Python programming.
+- Completed 10 Python exercises.
+- Practiced input handling, loops, conditions, strings,number conversion,Reverse String and  Math Operation.
+
+📁 **Python Exercises:**  
+
+https://colab.research.google.com/drive/1It5VbsHlB-tvdiBxREYIfXMhZ77F85Om?usp=sharing
+
+---
+
+
+### 29.09.2026 – Python  Numpy Exercises
+
+**Work Completed:**
+- Practiced basic to Advanced Numpy Python programming.
+- Completed 15 Python exercises.
+- Practiced Array Operation,Mean,Highest,Lowest,Mean,Dimensions,Reshape,Axis and basic Numpy Operations.
+
+📁 **Python Exercises:**  
+
+https://colab.research.google.com/drive/15JpaxhGzSemEljpbrX7xY2VH7vSql2_C?usp=sharing
+
+
+---
+
+
+### 29.09.2026 – Python Function Exercises
+
+**Work Completed:**
+- Practiced  Python Function programming.
+- Completed 5 Python exercises.
+- Practiced input handling, loops, conditions, strings, Functions Handling and Args.
+
+📁 **Python Exercises:**  
+
+https://colab.research.google.com/drive/1d4CUorScBiF9aO7eEDatya9GPe3aAu18?usp=sharing
+
+---
