@@ -151,3 +151,18 @@ https://colab.research.google.com/drive/15JpaxhGzSemEljpbrX7xY2VH7vSql2_C?usp=sh
 https://colab.research.google.com/drive/1d4CUorScBiF9aO7eEDatya9GPe3aAu18?usp=sharing
 
 ---
+
+
+### 05.10.2026 – Web Automation & Testing (Selenium)
+
+
+**Work Completed:**
+- Automated web tasks using Python & Selenium WebDriver.
+- Task 1: Google Search automation (Actor surya).
+- Task 2: SauceDemo portal login and automated product list extraction.
+- Task 3: Flipkart login flow using dynamic element handling, custom XPaths, and JavaScript clicks.
+- Built structured Word documentation (.docx) containing formatted source code and designated output screenshot placeholders.
+
+📊 **Exercise Document:**
+
+https://1drv.ms/w/c/83ab004ed615cee5/IQDSUd7prdJdTpkf3OZCM09TAboDYL8xHsFvLwctkQual8c?e=6gagHS
