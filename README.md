@@ -166,3 +166,19 @@ https://colab.research.google.com/drive/1d4CUorScBiF9aO7eEDatya9GPe3aAu18?usp=sh
 📊 **Exercise Document:**
 
 https://1drv.ms/w/c/83ab004ed615cee5/IQDSUd7prdJdTpkf3OZCM09TAboDYL8xHsFvLwctkQual8c?e=6gagHS
+
+---
+
+### 06.10.2026 – WebForm Automation & Testing (Selenium)
+
+
+**Work Completed:**
+- Automated webForm tasks using Python & Selenium WebDriver.
+- Handled form field interactions including text inputs, radio buttons, checkboxes, and field validations.
+- Built structured Word documentation (.docx) containing formatted source code and designated output screenshot placeholders.
+
+📊 **Exercise Document:**
+
+https://1drv.ms/w/c/83ab004ed615cee5/IQA3LvxEZxekTaeHdkafjNs0ARH_lHueo4coD3mDBQVkk24?e=gMq7U8
+
+---
