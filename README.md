@@ -184,7 +184,7 @@ https://1drv.ms/w/c/83ab004ed615cee5/IQA3LvxEZxekTaeHdkafjNs0ARH_lHueo4coD3mDBQV
 ---
 
 
-### 06.10.2026 – WebForm Automation & Testing (Selenium)
+### 07.10.2026 – WebForm Automation & Testing (Selenium)
 
 
 **Work Completed:**
@@ -197,3 +197,20 @@ https://1drv.ms/w/c/83ab004ed615cee5/IQA3LvxEZxekTaeHdkafjNs0ARH_lHueo4coD3mDBQV
 https://1drv.ms/w/c/83ab004ed615cee5/IQC21GbY9vxNRq3BotFN3NUeAaEpqbvyDXTk7ygXV4jJEr8?e=4cDb8O
 
 ---
+
+
+### 08.10.2026 – WebForm Automation & XPATH Functionalities (Selenium)
+
+
+**Work Completed:**
+- Automated webForm tasks using Python & Selenium WebDriver.
+- Handled form field interactions including text Xpath Functionalities includes attributes such as id ,name ,contains() ,start-with ,and select methods.
+- Built structured Word documentation (.docx) containing formatted source code and designated output screenshot placeholders.
+
+📊 **Exercise Document:**
+
+https://1drv.ms/w/c/83ab004ed615cee5/IQD8nD5s4wDoT5Zy-HUT8qBRAddfDYrL5dMp9xj55-oNKW0?e=MhGten
+
+---
+
+
