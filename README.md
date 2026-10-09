@@ -213,4 +213,19 @@ https://1drv.ms/w/c/83ab004ed615cee5/IQD8nD5s4wDoT5Zy-HUT8qBRAddfDYrL5dMp9xj55-o
 
 ---
 
+### 09.10.2026 – Selenium Web Table Automation & Data Extraction
+
+**Work Completed:**
+- Automated web table data extraction using Python and Selenium WebDriver.
+- Retrieved table rows and cell values using find_elements() with By.TAG_NAME.
+- Extracted salary values from web tables, removed special characters such as $ and ,, and converted string values into integers.
+- Identified the maximum salary from the extracted table data using Python's max() function.
+- Practiced handling table headers, iterating through rows, and processing numerical data efficiently.
+
+📊 **Exercise Document:**
+
+https://1drv.ms/w/c/83ab004ed615cee5/IQDgvQMNR30FTI-ng6Ys_BYoAcqn3teEYjIYNmoQJIUpe2A?e=cmeb3f
+
+---
+
 
